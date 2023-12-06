@@ -2,6 +2,5 @@ body {
   margin: 0;
   background: rgb(173, 46, 46);
   text-align: center;
-  text-decoration-color: white;
-  background-image:url(https://media.discordapp.net/attachments/850074570572038176/1136859559420506262/image.png?ex=657bc478&is=65694f78&hm=25150ee22cd9c7dbbb0d4fa067d36713be6f0a7de8677772e97c097b9092293e&=&format=webp&quality=lossless&width=1152&height=643)
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
